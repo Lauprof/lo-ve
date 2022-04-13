@@ -1,7 +1,7 @@
 table img{
 
 border-radius:100%
-
+height:auto;
 
 }
 body{
@@ -98,7 +98,7 @@ footer p{
 text-align:center;
 color:pink;
 font-size:20px;
-//background-color:green;
+
 height:auto;
 
 }
@@ -107,7 +107,7 @@ padding:20px;
 
 }
 .a{
-//background-color:green;
+
 padding:30px;
 border-spacing:20px;
 font-size:25px;
